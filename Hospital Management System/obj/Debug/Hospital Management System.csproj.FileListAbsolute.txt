@@ -442,4 +442,3 @@ C:\Users\i-yash.choudhary\source\repos\Hospital Management System\Hospital Manag
 C:\Users\i-yash.choudhary\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
 C:\Users\i-yash.choudhary\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Migrations.Initial.resources
 C:\Users\i-yash.choudhary\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
-C:\Users\i-yash.choudhary\source\repos\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojAssemblyReference.cache
