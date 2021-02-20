@@ -74,8 +74,7 @@
                     @Html.DisplayFor(modelItem => item.Status)
                 </td>
                 <td>
-                    <a href="@Url.Action("DoctorDetail", new {id = item.Id})" class="fa fa-info-circle" style="font-size: 19px; color: lightblue"></a> |
-                    <a href="@Url.Action("DoctorSchedule", new {id = item.Id})" class="fa fa-calendar-check-o" style="font-size: 19px;"></a>
+                    <a href="@Url.Action("DoctorDetail", new {id = item.Id})" class="fa fa-info-circle" style="font-size: 19px; color: lightblue"></a>
                 </td>
             </tr>
         }
